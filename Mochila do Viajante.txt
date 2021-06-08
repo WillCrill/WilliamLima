@@ -1,0 +1,13 @@
+1) O GitHub foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon usando Ruby on Rails, em fevereiro de 2008.
+
+   Há alguns anos as redes sociais surgiram para revolucionar a internet. Antes, com uma comunicação bastante restrita, em seguida os comunicadores instantâneos, como o lendário ICQ, e depois, as atuantes redes sociais. 
+
+   Hoje há redes sociais voltadas para vários interesses e propósitos. A maior delas, o Facebook, que abriga milhões de usuários por todo o mundo, é ideal para manter velhas amizades, bem como fazer novas. No entanto, há redes sociais voltadas para discutir e trocar opiniões sobre assuntos específicos. Muitos desenvolvedores, por exemplo, além de gostar de desenvolver, procuram conversar muito sobre o tema, como também dividir informações e ainda compartilhar alguns códigos. Pensando nesse grupo, surgiu o GitHub.
+
+
+
+2) Em 4 de junho de 2018, a Microsoft anunciou a compra da plataforma por US$ 7,5 bilhões. Com o proposito de fortalecer o compromisso com a liberdade, a abertura e a inovação dos desenvolvedore ao unir forças com o Github.
+
+
+
+3) sim, baixando o Github Desktop
